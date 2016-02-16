@@ -6,8 +6,6 @@
     "keywords": ["types"],
     "license": "MIT",
     "src": [
-        "src/lib.h",
-        "src/lib.c",
         "lib.h",
         "lib.c"
     ],
