@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 #include "../lib.h"
-#include "../lib.c"
 
 
 int main(void) {
