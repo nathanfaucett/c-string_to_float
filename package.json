@@ -1,0 +1,17 @@
+{
+    "name": "string_to_float",
+    "version": "0.0.1",
+    "repo": "nathanfaucett/c-string_to_float",
+    "description": "string to float conversions and macros",
+    "keywords": ["types"],
+    "license": "MIT",
+    "src": [
+        "src/lib.h",
+        "src/lib.c",
+        "lib.h",
+        "lib.c"
+    ],
+    "dependencies": {
+        "nathanfaucett/c-types": "0.0.1"
+    }
+}
